@@ -378,3 +378,6 @@ For technical support and integration assistance, please refer to the example im
 ---
 
 **⚠️ Security Notice**: This protection system is designed to be robust, but no anti-cheat system is 100% unbreakable. Continuous updates and monitoring are essential for maintaining security effectiveness.
+
+
+# If you need to create your own anti-cheat or anti-crack, send a friend request to @thisistriwai on DISCORD
